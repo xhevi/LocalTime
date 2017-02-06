@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Lokale Zeit - Automatische Time Zone Converter"
+  },
+  "appDesc": {
+    "message": "Automatisch ersetzt Zeit in den Webseiten, die Sie besuchen, mit Ihrer lokalen Zeit."
+  }
+}

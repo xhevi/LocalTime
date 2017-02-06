@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Yerel Zaman - Otomatik Zaman Dilimi Converter"
+  },
+  "appDesc": {
+    "message": "Otomatik olarak dönüştürür ve yerel zaman web sitelerinde zaman değiştirir."
+  }
+}

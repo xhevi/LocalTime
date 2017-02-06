@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Místní čas - Automatická konverze časového pásma"
+  },
+  "appDesc": {
+    "message": "Automaticky převádí a přepíše čas v navštívených webových stránkách do místního času."
+  }
+}

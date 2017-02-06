@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Hora local - Convertidor de zona horaria"
+  },
+  "appDesc": {
+    "message": "Convierte automáticamente y reemplaza vez en los sitios web de la hora local."
+  }
+}
